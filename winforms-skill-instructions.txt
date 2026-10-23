@@ -1,0 +1,13 @@
+Use your writing-for-agents skill to turn
+vbnet-winforms-discovery-handoff.md into the
+vbnet-winforms-discovery skill package.
+
+Read the brief's Handoff instruction first. Preserve its
+behavioral requirements while improving the organization,
+wording, and reference structure.
+
+Create the package under:
+.github/skills/vbnet-winforms-discovery/
+
+Include all referenced supporting files and usage examples.
+Identify any requirements you cannot implement.
