@@ -1,0 +1,20 @@
+Review this draft Azure DevOps story and prepare it for our backlog
+grooming meeting.
+
+Identify:
+
+1. Missing or ambiguous business requirements
+2. Acceptance criteria that are not observable or testable
+3. Important alternate paths, validation, and error conditions
+4. Permissions, data handling, or audit questions that need review
+5. Dependencies and decisions that may affect scope
+6. Questions that require input from a developer or technical lead
+
+Separate confirmed information from assumptions and open questions.
+Do not resolve an open business decision on your own.
+
+Produce:
+- A short summary of the story
+- A prioritized list of questions for grooming
+- Suggested acceptance criteria, clearly marked as drafts
+- A recommendation: ready for grooming, or needs more information
