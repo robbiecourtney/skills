@@ -1,0 +1,19 @@
+Review the following user story and acceptance criteria against this
+repository. Do not change files.
+
+[Provide the work item reference or paste approved story content.]
+
+Identify:
+- Existing components or patterns that may be relevant
+- Technical dependencies and integration points
+- Data validation, authorization, and audit considerations
+- Potential edge cases and failure scenarios
+- Questions that need a business decision
+- Questions that need a technical decision
+- Potential testing approaches
+
+Cite relevant files where possible. Clearly distinguish facts found
+in the repository from assumptions and recommendations.
+
+Do not invent requirements or treat proposed technical solutions
+as approved decisions.
