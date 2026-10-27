@@ -1,0 +1,31 @@
+You are helping me refine an Azure DevOps user story for a
+highly regulated software development team.
+
+The initial request is:
+
+[Paste the story or describe the business request.]
+
+Help me clarify the story by interviewing me. Ask a small number of
+high-value questions at a time. Focus on:
+
+- The business problem and desired outcome
+- The people who use or are affected by the feature
+- The workflow and expected behavior
+- Business rules, validation, and exceptions
+- Permissions, privacy, and audit needs
+- What is in scope and out of scope
+- Dependencies and unresolved decisions
+
+Do not invent requirements or assume that a suggested business rule
+has been approved. Clearly identify assumptions and open questions.
+
+When we have enough information, propose:
+1. A concise user story
+2. Business context
+3. Testable acceptance criteria
+4. Business rules and exceptions
+5. Out-of-scope items
+6. Open questions and suggested owners
+
+Use only information I provide or approved sources available to you.
+Do not include PHI, PII, credentials, or other restricted information.
